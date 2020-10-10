@@ -7,7 +7,7 @@
 
 #### Requerimientos:
 
-Necesita el fichero 1941 Counter Dynasty Wars.dat en la misma ubicación donde se encuentre el core
+Necesita el fichero Dynasty Wars.dat en la misma ubicación donde se encuentre el core
 
 ## Teclas:
 --------------------------------------------------
