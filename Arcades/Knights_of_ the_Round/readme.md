@@ -2,6 +2,7 @@
 
 ### Port por Jose Manuel @delgrom :+1: 
 #### Fuentes:Jose Tejada Jotego https://www.patreon.com/topapate
+Información del sistema original reimplementado en la Fpga : https://en.wikipedia.org/wiki/Knights_of_the_Round_(video_game)
 
 ![knights of the round](https://user-images.githubusercontent.com/31018768/93021968-642a5300-f5e6-11ea-9019-01721af2ef6b.jpg)
 
