@@ -3,6 +3,7 @@
 ### Port por Jose Manuel @delgrom :+1: 
 #### Fuentes:Jose Tejada Jotego https://www.patreon.com/topapate
 Información del sistema original reimplementado en la Fpga : https://en.wikipedia.org/wiki/Forgotten_Worlds
+
 ![forgotten worlds](https://user-images.githubusercontent.com/31018768/93026895-913c2d00-f609-11ea-8bf8-02b1c203b6e1.jpg)
 
 #### Requerimientos:
