@@ -1,4 +1,4 @@
-# Ghouls n Ghosts
+# Ghouls'n Ghosts
 
 ### Port por Jose Manuel @delgrom :+1: 
 #### Fuentes:Jose Tejada Jotego https://www.patreon.com/topapate
