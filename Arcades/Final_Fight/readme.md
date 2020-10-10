@@ -2,6 +2,7 @@
 
 ### Port por Jose Manuel @delgrom :+1: 
 #### Fuentes:Jose Tejada Jotego https://www.patreon.com/topapate
+Información del sistema original reimplementado en la Fpga : https://es.wikipedia.org/wiki/Final_Fight
 
 ![final fight](https://user-images.githubusercontent.com/31018768/93026858-5fc36180-f609-11ea-8279-f783c7fa5c44.jpg)
 
