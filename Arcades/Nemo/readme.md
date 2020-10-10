@@ -2,6 +2,7 @@
 
 ### Port por Jose Manuel @delgrom :+1: 
 #### Fuentes:Jose Tejada Jotego https://www.patreon.com/topapate
+Información del sistema original reimplementado en la Fpga : https://en.wikipedia.org/wiki/Nemo_(arcade_game)
 
 ![Nemo](https://user-images.githubusercontent.com/31018768/93027054-ceed8580-f60a-11ea-8c1d-d977f3c0c164.jpg)
 
