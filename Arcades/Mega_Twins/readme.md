@@ -2,6 +2,7 @@
 
 ### Port por Jose Manuel @delgrom :+1: 
 #### Fuentes:Jose Tejada Jotego https://www.patreon.com/topapate
+Información del sistema original reimplementado en la Fpga : https://en.wikipedia.org/wiki/Mega_Twins
 
 ![Mega Twins](https://user-images.githubusercontent.com/31018768/93027014-8635cc80-f60a-11ea-9f60-22f1eded6c94.png)
 
