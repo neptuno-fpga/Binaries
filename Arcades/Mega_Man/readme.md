@@ -2,6 +2,7 @@
 
 ### Port por Jose Manuel @delgrom :+1: 
 #### Fuentes:Jose Tejada Jotego https://www.patreon.com/topapate
+Información del sistema original reimplementado en la Fpga : https://es.wikipedia.org/wiki/Rock_Man:_The_Power_Battle
 
 ![Mega Man](https://user-images.githubusercontent.com/31018768/93026995-62728680-f60a-11ea-8d5a-f1c6a82b92e8.png)
 
