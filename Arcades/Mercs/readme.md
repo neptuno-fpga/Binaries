@@ -2,6 +2,7 @@
 
 ### Port por Jose Manuel @delgrom :+1: 
 #### Fuentes:Jose Tejada Jotego https://www.patreon.com/topapate
+Información del sistema original reimplementado en la Fpga : https://es.wikipedia.org/wiki/Mercs
 
 ![Mercs](https://user-images.githubusercontent.com/31018768/93027032-a796b880-f60a-11ea-8d52-885bb6d17fdd.jpg)
 
