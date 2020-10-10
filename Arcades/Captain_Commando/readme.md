@@ -7,7 +7,7 @@
 
 #### Requerimientos:
 
-Necesita el fichero 1941 Counter Captain Commando.dat en la misma ubicación donde se encuentre el core
+Necesita el fichero Captain Commando.dat en la misma ubicación donde se encuentre el core
 
 ## Teclas:
 --------------------------------------------------
