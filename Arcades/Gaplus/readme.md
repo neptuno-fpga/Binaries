@@ -1,7 +1,7 @@
 # Gaplus
 --------------------------------------------------
 #### Core portado por Jose Manuel @delgrom
-
+#### Fuentes:Jose Tejada Jotego https://www.patreon.com/topapate
 Información del sistema original reimplementado en la Fpga : https://en.wikipedia.org/wiki/Gaplus
 
 ![GAPLUS](https://user-images.githubusercontent.com/31018768/95376684-c32b7100-08e1-11eb-88b1-57b8480f0dd2.jpg)
