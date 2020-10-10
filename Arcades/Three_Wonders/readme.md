@@ -7,7 +7,7 @@
 
 #### Requerimientos:
 
-Necesita el fichero The King of Three Wonders.dat en la misma ubicación donde se encuentre el core
+Necesita el fichero Three Wonders.dat en la misma ubicación donde se encuentre el core
 
 ## Teclas:
 --------------------------------------------------
