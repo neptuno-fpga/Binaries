@@ -2,6 +2,7 @@
 
 ### Port por Jose Manuel @delgrom :+1: 
 #### Fuentes:Jose Tejada Jotego https://www.patreon.com/topapate
+Información del sistema original reimplementado en la Fpga : https://es.wikipedia.org/wiki/Captain_Commando_(videojuego)
 
 ![Captain Commando](https://user-images.githubusercontent.com/31018768/93020698-be271a80-f5de-11ea-9cac-2fac07ba6e15.jpg)
 
