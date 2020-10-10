@@ -2,6 +2,7 @@
 
 ### Port por Jose Manuel @delgrom :+1: 
 #### Fuentes:Jose Tejada Jotego https://www.patreon.com/topapate
+Información del sistema original reimplementado en la Fpga : https://en.wikipedia.org/wiki/Dynasty_Wars
 
 ![dynasty wars](https://user-images.githubusercontent.com/31018768/93026825-268af180-f609-11ea-956d-6d3ab1b641c6.jpg)
 
