@@ -7,7 +7,7 @@
 
 #### Requerimientos:
 
-Necesita el fichero 1941 Counter Carrier Air Wing.dat en la misma ubicación donde se encuentre el core
+Necesita el fichero Air Wing.dat en la misma ubicación donde se encuentre el core
 
 ## Teclas:
 --------------------------------------------------
