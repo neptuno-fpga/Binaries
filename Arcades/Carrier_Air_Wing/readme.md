@@ -2,6 +2,7 @@
 
 ### Port por Jose Manuel @delgrom :+1: 
 #### Fuentes:Jose Tejada Jotego https://www.patreon.com/topapate
+Información del sistema original reimplementado en la Fpga : https://en.wikipedia.org/wiki/Carrier_Air_Wing_(video_game)
 
 ![Carrier Air Wing](https://user-images.githubusercontent.com/31018768/93021663-275d5c80-f5e4-11ea-8685-9eb207d7696d.jpg)
 
