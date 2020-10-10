@@ -1,7 +1,7 @@
 # 1941 Counter Attack
 --------------------------------------------------
 #### Core portado por Jose Manuel @delgrom
-
+#### Fuentes:Jose Tejada Jotego https://www.patreon.com/topapate
 Información del sistema original reimplementado en la Fpga : https://en.wikipedia.org/wiki/1941:_Counter_Attack
 
 ![1941 Counter Attack](https://user-images.githubusercontent.com/31018768/93019403-10643d80-f5d7-11ea-8d06-2d6f03e9cee4.jpg) | ![My Video](https://user-images.githubusercontent.com/31018768/93630861-fbc6e180-f9ea-11ea-8aae-645e8f11c856.gif)
