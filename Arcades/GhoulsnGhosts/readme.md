@@ -2,6 +2,7 @@
 
 ### Port por Jose Manuel @delgrom :+1: 
 #### Fuentes:Jose Tejada Jotego https://www.patreon.com/topapate
+Información del sistema original reimplementado en la Fpga : https://es.wikipedia.org/wiki/Ghouls_%27n_Ghosts
 
 ![Ghouls n Ghosts](https://user-images.githubusercontent.com/31018768/93026916-d06a7e00-f609-11ea-8353-044ba6d33e9f.jpg)
 
