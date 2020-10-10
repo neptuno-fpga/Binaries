@@ -2,6 +2,7 @@
 
 ### Port por Jose Manuel @delgrom :+1: 
 #### Fuentes:Jose Tejada Jotego https://www.patreon.com/topapate
+Información del sistema original reimplementado en la Fpga : https://en.wikipedia.org/wiki/Magic_Sword_(video_game)
 
 ![Magic Sword](https://user-images.githubusercontent.com/31018768/93026977-3c4ce680-f60a-11ea-8a43-44a4a6393185.jpg)
 
