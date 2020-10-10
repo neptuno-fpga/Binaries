@@ -3,6 +3,8 @@
 ### Port por Jose Manuel @delgrom :+1: 
 #### Fuentes:Jose Tejada Jotego https://www.patreon.com/topapate
 
+Información del sistema original reimplementado en la Fpga : https://es.wikipedia.org/wiki/Willow_(Capcom_arcade_game)
+
 ![Willow 2](https://user-images.githubusercontent.com/31018768/93027515-a2873880-f60d-11ea-9cd2-c910562f973b.jpg)
 
 #### Requerimientos:
