@@ -5,7 +5,7 @@ Core portado a neptUNO por @NeuroRulez proviniente del Unamiga/MIST. Mejoras por
 
 ![a1200foto](https://user-images.githubusercontent.com/31018768/71215821-17188b00-22b9-11ea-8033-4ef7fa745241.jpg)
 
-## (*) Para disponer de salida de audio I2s hace falta un addon opcional por el puerto EDGE
+### (*) Para disponer de salida de audio I2S hace falta un addon opcional por el puerto EDGE [Antonio Villena Store](https://www.antoniovillena.es/store/)
 
 ### License
 
