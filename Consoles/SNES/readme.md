@@ -4,6 +4,8 @@ from: https://github.com/gyurco/SNES_MiSTer/tree/f4311f75e90a5901ece8490c1142677
 ### NeptUNO port by DistWave
 Sources: https://github.com/neptuno-fpga/SNES
 
+Información del sistema original reimplementado en la Fpga : https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System
+
 ![snes](https://user-images.githubusercontent.com/31018768/97775381-747b9a80-1b60-11eb-8501-ec8c49808a95.jpg)
 
 Características
