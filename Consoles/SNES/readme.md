@@ -20,7 +20,7 @@ Soporta Cheats.
 
 Save/Load Backup RAM.
 
-Suporta ratón.
+Soporta ratón.
 
 SuperFX Turbo y CPU Turbo.
 
