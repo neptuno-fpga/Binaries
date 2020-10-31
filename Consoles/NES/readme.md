@@ -1,6 +1,6 @@
 # NES core by Luddes from MIST
 from: https://github.com/strigeus/fpganes
-### NeptUNO port by DistWave
+### NeptUNO port by Néstor @DistWave81
 Sources: https://github.com/neptuno-fpga/NES_mist
 
 Información del sistema original reimplementado en la Fpga : https://es.wikipedia.org/wiki/Nintendo_Entertainment_System
