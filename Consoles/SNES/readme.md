@@ -6,15 +6,22 @@ Sources: https://github.com/neptuno-fpga/SNES
 
 ![snes](https://user-images.githubusercontent.com/31018768/97775381-747b9a80-1b60-11eb-8501-ec8c49808a95.jpg)
 
+Características
+--------------------------------------------------------
 Formato ROMs (.SCF, *.SMC, *.BIN)
 
-Features
 Replica el ciclo de la SNES de forma precisa.
+
 Soporta LoROM, HiROM, ExHiROM.
+
 Soporta chips adicionales : DSP-1/2/3/4, ST010, CX4, SDD1, SuperFX(GSU-1/2), SA1, OBC1, SPC7110, S-RTC.
+
 Soporta Cheats.
+
 Save/Load Backup RAM.
+
 Suporta ratón.
+
 SuperFX Turbo y CPU Turbo.
 
 ### License
