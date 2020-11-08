@@ -12,6 +12,35 @@ Información del sistema original reimplementado en la Fpga : https://es.wikiped
 
 Foto de De Evan-Amos 
 
+### Instrucciones
+
+F12 -> Menú OSD
+Bloq. Despl. -> VGA/RGB 15khz
+
+
+Teclas (Player 1):
+-------------------
+Cursores : Direcciones mando nes
+C -> Select 
+X -> Start
+Espacio -> Botón B nes
+Alt izquierdo -> Botón A nes
+
+
+Joysticks:
+----------
+Mando Atari:
+Botón 1 -> Botón B nes
+Botón 2 -> Botón A nes
+
+
+Mando de megadrive:
+Mode -> Select
+Start -> Start
+
+A -> Botón B  nes
+B -> Botón A  nes
+C -> Select
 ### License
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
