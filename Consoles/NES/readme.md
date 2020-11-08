@@ -1,9 +1,7 @@
-# NES 
-from:
+# NES + I2S
 
+### NeptUNO port by Jose Manuel @delgrom
 
-
-### NeptUNO port by @delgrom
 Sources: https://github.com/neptuno-fpga/NES_mist
 
 Información del sistema original reimplementado en la Fpga : https://es.wikipedia.org/wiki/Nintendo_Entertainment_System
@@ -11,6 +9,8 @@ Información del sistema original reimplementado en la Fpga : https://es.wikiped
 ![NES-Console-Set](https://user-images.githubusercontent.com/31018768/97775687-04badf00-1b63-11eb-9fd9-cc732a2e8d1e.png)
 
 Foto de De Evan-Amos 
+
+### Soporte I2S: Si
 
 ### Instrucciones
 
