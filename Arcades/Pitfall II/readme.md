@@ -1,12 +1,14 @@
 # Pitfall II
---------------------------------------------------
+-------------------------------------------
 #### Core portado por Jose Manuel @delgrom
+
 #### Fuentes:
-Información del sistema original reimplementado en la Fpga : https://en.wikipedia.org/wiki/Pitfall_II:_Lost_Caverns
+
+#### Información del sistema original reimplementado en la Fpga : https://en.wikipedia.org/wiki/Pitfall_II:_Lost_Caverns
 
 ![Pitfall2](https://user-images.githubusercontent.com/31018768/99847411-4f36e680-2b78-11eb-8168-e6f25dcb3c7a.jpg)
 
-Necesita el fichero Pitfall II.dat en la misma ubicación donde se encuentre el core
+#### Necesita el fichero Pitfall II.dat en la misma ubicación donde se encuentre el core
 
 ## Teclas:
 --------------------------------------------------
