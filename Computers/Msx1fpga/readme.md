@@ -1,7 +1,8 @@
-# Msx1Fpga
+# Msx1Fpga + I2S(*)
 
 ### Core portado por Jose Manuel @delgrom | https://github.com/fbelavenuto/msx1fpga
 
+### (*) Necesita addon I2S [Antonio Villena Store](https://www.antoniovillena.es/store/)
 ![MSX-Hit_Bit_HB-75P](https://user-images.githubusercontent.com/31018768/71131502-2b934f80-21f5-11ea-99fc-b63d1a5d30c3.jpg)
 
 MSX1 cloned in FPGA
