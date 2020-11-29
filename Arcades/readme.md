@@ -2,11 +2,11 @@
 
 Varios
 ----------------------------------
-* Gaplus
+* Gaplus [Info](https://github.com/neptuno-fpga/Binaries/tree/main/Arcades/Z--Infojuegos/Gaplus.md) | [Ficheros](https://github.com/neptuno-fpga/Binaries/tree/main/Arcades/Varios/Gaplus)
 
 Atari Tetris
 ----------------------------------
-* Tetris [Info](https://github.com/neptuno-fpga/Binaries/tree/main/Arcades/Z--Infojuegos/Tetris.md)
+* Tetris [Info](https://github.com/neptuno-fpga/Binaries/tree/main/Arcades/Z--Infojuegos/Tetris.md)  | [Ficheros](https://github.com/neptuno-fpga/Binaries/tree/main/Arcades/Atari%20Tetris)
 
 Capcom CPS1 Hardware
 ----------------------------------
