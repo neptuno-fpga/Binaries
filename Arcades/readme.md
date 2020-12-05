@@ -46,19 +46,19 @@ Capcom CPS1 Hardware
 Sega System 1 Hardware
 ----------------------------------
 
-* 4D Warriors [Info]()
-* Flicky [Info]
-* I'm Sorry [Info]
-* Mister Viking [Info]
-* My Hero [Info]
-* Pitfall II [Info]
-* Regulus [Info]
-* Sega Ninja [Info]
-* Spatter [Info]
-* Star Jacker [Info]
-* Teddy Boy Blues [Info]
-* Up'n down [Info]
-* Wonderboy [Info]
+* 4D Warriors [Info]() | [Ficheros](https://github.com/neptuno-fpga/Binaries/tree/main/Arcades/Sega%20System%201%20Hardware)
+* Flicky [Info]() | [Ficheros](https://github.com/neptuno-fpga/Binaries/tree/main/Arcades/Sega%20System%201%20Hardware)
+* I'm Sorry [Info]() | [Ficheros](https://github.com/neptuno-fpga/Binaries/tree/main/Arcades/Sega%20System%201%20Hardware)
+* Mister Viking [Info]() | [Ficheros](https://github.com/neptuno-fpga/Binaries/tree/main/Arcades/Sega%20System%201%20Hardware)
+* My Hero [Info]() | [Ficheros](https://github.com/neptuno-fpga/Binaries/tree/main/Arcades/Sega%20System%201%20Hardware)
+* Pitfall II [Info]() | [Ficheros](https://github.com/neptuno-fpga/Binaries/tree/main/Arcades/Sega%20System%201%20Hardware)
+* Regulus [Info]() | [Ficheros](https://github.com/neptuno-fpga/Binaries/tree/main/Arcades/Sega%20System%201%20Hardware)
+* Sega Ninja [Info]() | [Ficheros](https://github.com/neptuno-fpga/Binaries/tree/main/Arcades/Sega%20System%201%20Hardware)
+* Spatter [Info]() | [Ficheros](https://github.com/neptuno-fpga/Binaries/tree/main/Arcades/Sega%20System%201%20Hardware)
+* Star Jacker [Info]() | [Ficheros](https://github.com/neptuno-fpga/Binaries/tree/main/Arcades/Sega%20System%201%20Hardware)
+* Teddy Boy Blues [Info]() | [Ficheros](https://github.com/neptuno-fpga/Binaries/tree/main/Arcades/Sega%20System%201%20Hardware)
+* Up'n down [Info]() | [Ficheros](https://github.com/neptuno-fpga/Binaries/tree/main/Arcades/Sega%20System%201%20Hardware)
+* Wonderboy [Info]() | [Ficheros](https://github.com/neptuno-fpga/Binaries/tree/main/Arcades/Sega%20System%201%20Hardware)
 
 
 
