@@ -8,6 +8,11 @@ Atari Tetris
 ----------------------------------
 * Tetris [Info](https://github.com/neptuno-fpga/Binaries/tree/main/Arcades/Z--Infojuegos/Tetris.md)  | [Ficheros](https://github.com/neptuno-fpga/Binaries/tree/main/Arcades/Atari%20Tetris)
 
+Bubble Bobble hardware
+----------------------------------
+* Bubble Bobble [info](https://github.com/ingloriond/Unamiga/blob/master/Cores/Arcades/Z--Infojuegos/Bubble%20Bobble.md)
+* Tokio [Info](https://github.com/ingloriond/Unamiga/blob/master/Cores/Arcades/Z--Infojuegos/Tokio.md)
+
 Capcom CPS1 Hardware
 ----------------------------------
 * 1941 Counter Attack [Info](https://github.com/neptuno-fpga/Binaries/tree/main/Arcades/Z--Infojuegos/1941.md)
