@@ -1,4 +1,4 @@
-# ZX NEXT I2S + EAR + WIFI 
+# ZX NEXT 2 MB I2S + EAR + WIFI 
 --------------------------------------------------
 ### Core portado por Fernando Mosquera @benitoss https://github.com/benitoss
 
