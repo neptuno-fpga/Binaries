@@ -2,7 +2,7 @@
 --------------------------------------------------
 ### Core portado por Fernando Mosquera @benitoss https://github.com/benitoss
 
-(*) Es necesario un Addon extra, lo puedes adquirir aquí [Tienda](https://www.antoniovillena.es/store)
+(*) Es necesario un Addon extra, lo puedes adquirir aquí [Antonio Villena Store](https://www.antoniovillena.es/store)
 
 #### Fuentes: https://www.specnext.com/ 
 Información del sistema original reimplementado en la Fpga : https://en.wikipedia.org/wiki/ZX_Spectrum_Next 
