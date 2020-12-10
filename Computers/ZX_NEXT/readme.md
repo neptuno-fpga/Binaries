@@ -1,6 +1,8 @@
-# ZX NEXT 2 MB I2S + EAR + WIFI 
+# ZX NEXT 2 MB + EAR + WIFI + I2S + RTC  (*)
 --------------------------------------------------
 ### Core portado por Fernando Mosquera @benitoss https://github.com/benitoss
+
+(*) Es necesario un Addon extra, lo puedes adquirir aquí [Tienda](https://www.antoniovillena.es/store)
 
 #### Fuentes: https://www.specnext.com/ 
 Información del sistema original reimplementado en la Fpga : https://en.wikipedia.org/wiki/ZX_Spectrum_Next 
