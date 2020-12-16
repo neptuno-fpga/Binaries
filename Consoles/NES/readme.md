@@ -12,6 +12,9 @@ Foto de De Evan-Amos
 
 ### Soporte I2S: Si
 
+### Changelog
+16/12/2020 Soporte I2S para addon UDA1334A
+
 ### Instrucciones
 
 F12 -> Menú OSD
