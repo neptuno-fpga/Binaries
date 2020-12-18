@@ -1,5 +1,9 @@
 # Sega Master System + I2S
 --------------------------------------------------
+
+### Changelog
+18/12/2020 Soporte I2S para addon UDA1334A
+
 #### Core portado por Jose Manuel @delgrom
 #### Fuentes:
 Información del sistema original reimplementado en la Fpga : https://es.wikipedia.org/wiki/Master_System
