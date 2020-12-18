@@ -12,6 +12,8 @@ Formato ROMs : *.md
 
 Soporte I2S : Si
 
+### Changelog
+18/12/2020 Soporte I2S para addon UDA1334A, generación de core para el chip SVP (fpagen_SVP) para Virtua Racing
 
 ### License
 
