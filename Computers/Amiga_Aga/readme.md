@@ -1,10 +1,15 @@
 # Amiga A1200
 Información del sistema original reimplementado en la Fpga: https://es.wikipedia.org/wiki/Commodore_Amiga_1200
 
-Core portado por Jose Manuel @delfrom proviniente del Unamiga portado por Jepalza proviniente a su vez de MIST. Mejoras por @NeuroRulez y Edu Arana (entorno osd y la traducción)
+Core portado por Jose Manuel @delgrom proviniente del Unamiga portado por Jepalza proviniente a su vez de MIST. Mejoras por @NeuroRulez y Edu Arana (entorno osd y la traducción)
 . Addons del Unamiga por Antonio Villena
 
 ![a1200foto](https://user-images.githubusercontent.com/31018768/71215821-17188b00-22b9-11ea-8033-4ef7fa745241.jpg)
+
+
+
+### Changelog
+19/12/2020 i2s uda, uart, updated joystick decoder
 
 ### License
 
