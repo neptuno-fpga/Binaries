@@ -9,6 +9,9 @@ MSX1 cloned in FPGA
 
 Este projecto es un MSx1 clonado a FPGA, con algunas partes del projecto OCM
 
+### Changelog
+19/12/2020 Soporte I2S para addon UDA1334A
+
 ##### Características:
 
 Multiple placas
