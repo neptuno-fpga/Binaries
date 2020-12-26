@@ -3,7 +3,7 @@ Información del sistema original reimplementado en la Fpga: https://es.wikipedi
 
 Core portado a neptUNO por @NeuroRulez proviniente del Unamiga/MIST. Mejoras por @NeuroRulez RTG, I2S y ampliación a 24 MG FAST y Edu Arana (entorno osd y la traducción) y jepalza entre otros
 
-Añadido sonido de carga de Diskettera y  discos duros
+## Añadido sonido de carga de Diskettera y  discos duros
 
 ![a1200foto](https://user-images.githubusercontent.com/31018768/71215821-17188b00-22b9-11ea-8033-4ef7fa745241.jpg)
 
