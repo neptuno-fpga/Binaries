@@ -2,7 +2,7 @@
 
 ### Portado por NeuroRulez a nept-UNO y Unamiga Reloaded
 
-![logokyp](https://user-images.githubusercontent.com/31018768/103444077-81526280-4c65-11eb-81e1-bd79ce680ad2.jpg)
+![logokyp2](https://user-images.githubusercontent.com/31018768/103680737-e5876600-4f86-11eb-92b3-7b2963c24228.jpg)
 
 Importante: En la tarjeta SD tienen que estar copiados los archivos del esxDOS v0.8.8 que podéis descargar aquí:
 http://www.esxdos.org/index.html
