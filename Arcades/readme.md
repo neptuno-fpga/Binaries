@@ -43,6 +43,15 @@ Capcom CPS1 Hardware
 * Warriors of Fate [Info](https://github.com/neptuno-fpga/Binaries/tree/main/Arcades/Z--Infojuegos/Warriors_of_Fate.md) | [Ficheros](https://github.com/neptuno-fpga/Binaries/tree/main/Arcades/Capcom%20CPS1%20hardware)
 * Willow [Info](https://github.com/neptuno-fpga/Binaries/tree/main/Arcades/Z--Infojuegos/Willow.md) | [Ficheros](https://github.com/neptuno-fpga/Binaries/tree/main/Arcades/Capcom%20CPS1%20hardware)
 
+Nintendo RadarScopeHardware
+----------------------------------
+
+* Donkey Kong [Info]() | [Ficheros](https://github.com/neptuno-fpga/Binaries/tree/main/Arcades/Nintendo%20RadarScope%20Hardware)
+* Donkey Kong Jr. [Info]() | [Ficheros](https://github.com/neptuno-fpga/Binaries/tree/main/Arcades/Nintendo%20RadarScope%20Hardware)
+* Donkey Kong 3 [Info]() | [Ficheros](https://github.com/neptuno-fpga/Binaries/tree/main/Arcades/Nintendo%20RadarScope%20Hardware)
+* Pest Place [Info]() | [Ficheros](https://github.com/neptuno-fpga/Binaries/tree/main/Arcades/Nintendo%20RadarScope%20Hardware)
+* Radar Scope [Info]() | [Ficheros](https://github.com/neptuno-fpga/Binaries/tree/main/Arcades/Nintendo%20RadarScope%20Hardware)
+
 Sega System 1 Hardware
 ----------------------------------
 
