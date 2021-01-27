@@ -69,7 +69,10 @@ Sega System 1 Hardware
 * Up'n down [Info]() | [Ficheros](https://github.com/neptuno-fpga/Binaries/tree/main/Arcades/Sega%20System%201%20Hardware)
 * Wonderboy [Info]() | [Ficheros](https://github.com/neptuno-fpga/Binaries/tree/main/Arcades/Sega%20System%201%20Hardware)
 
+Tecmo Hardware
+----------------------------------
 
+* Rygar [Info]() | [Ficheros](https://github.com/neptuno-fpga/Binaries/tree/main/Arcades/Tecmo%20Hardware)
 
 
 ....
