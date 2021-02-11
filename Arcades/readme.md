@@ -43,9 +43,13 @@ Capcom CPS1 Hardware
 * Warriors of Fate [Info](https://github.com/neptuno-fpga/Binaries/tree/main/Arcades/Z--Infojuegos/Warriors_of_Fate.md) | [Ficheros](https://github.com/neptuno-fpga/Binaries/tree/main/Arcades/Capcom%20CPS1%20hardware)
 * Willow [Info](https://github.com/neptuno-fpga/Binaries/tree/main/Arcades/Z--Infojuegos/Willow.md) | [Ficheros](https://github.com/neptuno-fpga/Binaries/tree/main/Arcades/Capcom%20CPS1%20hardware)
 
+Double Dragon Hardware
+----------------------------------
+* Double Dragon [Info]() | [Ficheros](https://github.com/neptuno-fpga/Binaries/tree/main/Arcades/Double%20Dragon%20Hardware)
+* Double Dragon 2 [Info]() | [Ficheros](https://github.com/neptuno-fpga/Binaries/tree/main/Arcades/Double%20Dragon%20Hardware)
+
 Nintendo RadarScopeHardware
 ----------------------------------
-
 * Donkey Kong [Info]() | [Ficheros](https://github.com/neptuno-fpga/Binaries/tree/main/Arcades/Nintendo%20RadarScope%20Hardware)
 * Donkey Kong Jr. [Info]() | [Ficheros](https://github.com/neptuno-fpga/Binaries/tree/main/Arcades/Nintendo%20RadarScope%20Hardware)
 * Donkey Kong 3 [Info]() | [Ficheros](https://github.com/neptuno-fpga/Binaries/tree/main/Arcades/Nintendo%20RadarScope%20Hardware)
@@ -54,7 +58,6 @@ Nintendo RadarScopeHardware
 
 Sega System 1 Hardware
 ----------------------------------
-
 * 4D Warriors [Info]() | [Ficheros](https://github.com/neptuno-fpga/Binaries/tree/main/Arcades/Sega%20System%201%20Hardware)
 * Flicky [Info]() | [Ficheros](https://github.com/neptuno-fpga/Binaries/tree/main/Arcades/Sega%20System%201%20Hardware)
 * I'm Sorry [Info]() | [Ficheros](https://github.com/neptuno-fpga/Binaries/tree/main/Arcades/Sega%20System%201%20Hardware)
@@ -71,7 +74,6 @@ Sega System 1 Hardware
 
 Tecmo Hardware
 ----------------------------------
-
 * Rygar [Info]() | [Ficheros](https://github.com/neptuno-fpga/Binaries/tree/main/Arcades/Tecmo%20Hardware)
 
 
