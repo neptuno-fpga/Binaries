@@ -11,7 +11,7 @@ Descomprima el archivo ./sdimg/SD_SM-X.ZIP para obtener el archivo SD_SM-X.img.
 
 Utilice Etcher o Win32DiskImager para guardar esta imagen en una tarjeta SD (mínimo 1 Gb).
 
-Después de grabar, copie el archivo "SM-X.MCP" a la raíz de la tarjeta. Cambie el nombre a "core.MCP" si desea que el arranque sea automático.
+Después de grabar, copie el archivo "SM-X.MCP" a la raíz de la tarjeta. Cambie el nombre a "core.np1" si desea que el arranque sea automático.
 
 Generando desde sdcreate
 
