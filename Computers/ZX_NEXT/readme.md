@@ -1,4 +1,4 @@
-# ZX NEXT 2 MB + EAR + WIFI + I2S + RTC  (*)
+# ZX NEXT 2 MB + EAR + WIFI + I2S + RTC + 6 BTN   (*)
 --------------------------------------------------
 ### Core portado por Fernando Mosquera @benitoss https://github.com/benitoss
 
