@@ -48,6 +48,10 @@ Teclas especiales en el teclado extendido numérico:
 
 ***** = Cambia entre máquina **PAL / NTSC** (si estás en Vídeo compuesto, cambiará el estándar de salida entre PAL y NTSC. Si estás en VGA, cambiará el refresco vertical entre 50Hz y 60Hz)
 
+Keyboard Layout
+
+![keyboardlayout](https://user-images.githubusercontent.com/31018768/111224110-4c0bae80-85de-11eb-893e-1736fdad5ab1.jpg)
+
 Turbo - velocidad del sistema
 1x (predeterminado): más compatible - alrededor de 1,7 MHz
 2x: 3,4 MHz
