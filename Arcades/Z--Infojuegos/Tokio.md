@@ -10,7 +10,7 @@ https://en.wikipedia.org/wiki/Scramble_Formation
 
 #### Requerimientos:
 
-Necesita el fichero Bubble Bobble.dat  en la misma ubicación donde se encuentre el core
+Necesita el fichero Tokio.dat  en la misma ubicación donde se encuentre el core
 
 ## Teclas:
 --------------------------------------------------
