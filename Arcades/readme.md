@@ -11,7 +11,7 @@ Atari Tetris
 Bubble Bobble hardware
 ----------------------------------
 * Bubble Bobble [Info_ES](https://github.com/neptuno-fpga/Binaries/blob/main/Arcades/Z--Infojuegos/Bubble%20Bobble.md) | [Info_EN](https://github.com/neptuno-fpga/Binaries/blob/main/Arcades/Z--Infojuegos/BubbleBobble_EN.md) | [Ficheros](https://github.com/neptuno-fpga/Binaries/tree/main/Arcades/Bubble%20Bobble%20Hardware)
-* Tokio [Info](https://github.com/neptuno-fpga/Binaries/blob/main/Arcades/Z--Infojuegos/Tokio.md)  [Info_EN](https://github.com/neptuno-fpga/Binaries/blob/main/Arcades/Z--Infojuegos/Tokio_EN.md) | [Ficheros](https://github.com/neptuno-fpga/Binaries/tree/main/Arcades/Bubble%20Bobble%20Hardware)
+* Tokio [Info_ES](https://github.com/neptuno-fpga/Binaries/blob/main/Arcades/Z--Infojuegos/Tokio.md) | [Info_EN](https://github.com/neptuno-fpga/Binaries/blob/main/Arcades/Z--Infojuegos/Tokio_EN.md) | [Ficheros](https://github.com/neptuno-fpga/Binaries/tree/main/Arcades/Bubble%20Bobble%20Hardware)
 
 Capcom CPS1 Hardware
 ----------------------------------
