@@ -6,7 +6,7 @@ Varios
 
 Atari Tetris
 ----------------------------------
-* Tetris [Info](https://github.com/neptuno-fpga/Binaries/tree/main/Arcades/Z--Infojuegos/Tetris.md) [Info_EN](https://github.com/neptuno-fpga/Binaries/blob/main/Arcades/Z--Infojuegos/Tetris_en.md) | [Ficheros](https://github.com/neptuno-fpga/Binaries/tree/main/Arcades/Atari%20Tetris)
+* Tetris [Info](https://github.com/neptuno-fpga/Binaries/tree/main/Arcades/Z--Infojuegos/Tetris.md) | [Info_EN](https://github.com/neptuno-fpga/Binaries/blob/main/Arcades/Z--Infojuegos/Tetris_en.md) | [Ficheros](https://github.com/neptuno-fpga/Binaries/tree/main/Arcades/Atari%20Tetris)
 
 Bubble Bobble hardware
 ----------------------------------
