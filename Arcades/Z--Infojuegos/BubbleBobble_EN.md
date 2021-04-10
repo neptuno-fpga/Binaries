@@ -3,31 +3,29 @@
 ### Port by Jose Manuel @delgrom :+1: 
 #### Sources:
 
-![1](https://user-images.githubusercontent.com/31018768/101239578-c88e1780-36e8-11eb-84ce-f986ee944bea.jpg)
+Information of the original system reimplemented in the Fpga : 
 
+https://es.wikipedia.org/wiki/Bubble_Bobble
+
+![1](https://user-images.githubusercontent.com/31018768/101239578-c88e1780-36e8-11eb-84ce-f986ee944bea.jpg)
 
 ### Requirements: 
 
-#### VIDEO OUTPUT: VGA,RGB
+You need the Bubble Bobble.dat file in the same location as the core.
 
-#### I2S SUPPORT: SI
+## Keys:
+--------------------------------------------------
+1,2 :   1P, 2P Start Buttons
 
-## KEYS:
+5,6 :   1P, 2P Insert Coins
 
-#### F3  :    RESET
-#### P   :    PAUSE
-#### 1,2 :   1P, 2P START BUTTONS
-#### 5,6 :   1P, 2P INSERT COINS
+CURSORS : 1P direction
 
-#### CURSORS  : 1P DIRECTIONS
-#### CTRL     : 1P BUTTON 1
-#### ALT      : 1P BUTTON 2
-#### SPACE    : 1P BUTTON 3
+SPACE    : 1P button
 
-#### R,F,G,D  : 2P DIRECTIONS
-#### Q,S,A    : 2P 3,2,1 BUTTONS
+---------------------------------------------------
+### License
 
-#### F7       : ON/OFF CHARACTER LAYER 
-#### F8       : ON/OFF 2 BACKGROUND LAYER
-#### F9       : ON/OFF 1 BACKGROUND LAYER
-#### F10      : ON/OFF SPRITES OBJECTS
+This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+You should have received a copy of the GNU General Public License along with this program. If not, see http://www.gnu.org/licenses/.t
