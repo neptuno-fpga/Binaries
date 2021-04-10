@@ -2,7 +2,7 @@
 
 Varios
 ----------------------------------
-* Gaplus [Info](https://github.com/neptuno-fpga/Binaries/tree/main/Arcades/Z--Infojuegos/Gaplus.md) | [Ficheros](https://github.com/neptuno-fpga/Binaries/tree/main/Arcades/Varios/Gaplus)
+* Gaplus [Info_ES](https://github.com/neptuno-fpga/Binaries/tree/main/Arcades/Z--Infojuegos/Gaplus.md) | [Ficheros](https://github.com/neptuno-fpga/Binaries/tree/main/Arcades/Varios/Gaplus)| [Info_EN](https://github.com/neptuno-fpga/Binaries/blob/main/Arcades/Z--Infojuegos/Gaplus_en.md)
 
 Atari Tetris
 ----------------------------------
