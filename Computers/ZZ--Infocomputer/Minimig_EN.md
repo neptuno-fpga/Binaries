@@ -8,7 +8,8 @@ Core ported by Jose Manuel @delgrom from Unamiga portrayed by Jepalza from MIST.
 
 ![a1200foto](https://user-images.githubusercontent.com/31018768/71215821-17188b00-22b9-11ea-8033-4ef7fa745241.jpg)
 
-
+### (*) To have I2S audio output, an optional addon is required through the EDGE port [Antonio Villena Store] (https://www.antoniovillena.es/store/)
+### (**) To have Real Time Clock (RTC), you need an optional addon through the EDGE port [Antonio Villena Store] (https://www.antoniovillena.es/store/)
 
 ### Changelog
 19/12/2020 i2s uda, uart, updated joystick decoder
