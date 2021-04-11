@@ -1,5 +1,5 @@
 # Atari 800 XL
-### Port por Jose Manuel @delgrom :+1:
+### Ported to nept-UNo by Jose Manuel @delgrom :+1:
 
 ![Atari_800XL_Plain_White](https://user-images.githubusercontent.com/31018768/70316102-3de7b380-181b-11ea-9102-cb2bd3c59bbd.jpg)
 
