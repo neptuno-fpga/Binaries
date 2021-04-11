@@ -3,7 +3,7 @@
 ---------------------------------
 * Amiga AGA [Info_ES](https://github.com/neptuno-fpga/Binaries/blob/main/Computers/ZZ--Infocomputer/Minimig_ES.md) | [Info_EN](https://github.com/neptuno-fpga/Binaries/blob/main/Computers/ZZ--Infocomputer/Minimig_EN.md) | [Ficheros/Files](https://github.com/neptuno-fpga/Binaries/tree/main/Computers/Amiga_Aga)
 * Amiga AGA RTG [Info_ES](https://github.com/neptuno-fpga/Binaries/blob/main/Computers/ZZ--Infocomputer/Minimig_rtg_ES.md) | [Info_EN](https://github.com/neptuno-fpga/Binaries/blob/main/Computers/ZZ--Infocomputer/Minimig_rtg_EN.md) | [Ficheros/Files](https://github.com/neptuno-fpga/Binaries/tree/main/Computers/Amiga_Aga_RTG)
-* Amstrad 6128 [Info_ES]() | [Info_EN]() | [Ficheros/Files](https://github.com/neptuno-fpga/Binaries/tree/main/Computers/Amstrad_6128)
+* Amstrad 6128 [Info_ES](https://github.com/neptuno-fpga/Binaries/blob/main/Computers/ZZ--Infocomputer/Amstrad_6128_ES.md) | [Info_EN](https://github.com/neptuno-fpga/Binaries/blob/main/Computers/ZZ--Infocomputer/Amstrad_6128_EN.md) | [Ficheros/Files](https://github.com/neptuno-fpga/Binaries/tree/main/Computers/Amstrad_6128)
 * Atari800XL [Info_ES]() | [Info_EN]() | [Ficheros/Files](https://github.com/neptuno-fpga/Binaries/tree/main/Computers/Atari800XL)
 * Commore 16 [Info_ES]() | [Info_EN]() | [Ficheros/Files](https://github.com/neptuno-fpga/Binaries/tree/main/Computers/C16)
 * C64_MiSTer [Info_ES]() | [Info_EN]() | [Ficheros/Files](https://github.com/neptuno-fpga/Binaries/tree/main/Computers/C64_MiSTer)
