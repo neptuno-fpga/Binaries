@@ -13,7 +13,7 @@
 * Next186_SoC [Info_ES](https://github.com/neptuno-fpga/Binaries/blob/main/Computers/ZZ--Infocomputer/Next186_SoC_ES.md) | [Info_EN](https://github.com/neptuno-fpga/Binaries/blob/main/Computers/ZZ--Infocomputer/Next186_SoC_EN.md) | [Ficheros/Files](https://github.com/neptuno-fpga/Binaries/tree/main/Computers/Next186_SoC)
 * SMX [Info_ES](https://github.com/neptuno-fpga/Binaries/blob/main/Computers/ZZ--Infocomputer/SMX_ES.md) | [Info_EN](https://github.com/neptuno-fpga/Binaries/blob/main/Computers/ZZ--Infocomputer/SMX_EN.md) | [Ficheros/Files](https://github.com/neptuno-fpga/Binaries/tree/main/Computers/SMX)
 * ZX SPECTRUM 128K SORGELIG [Info_ES](https://github.com/neptuno-fpga/Binaries/blob/main/Computers/ZZ--Infocomputer/ZXSPECTRUM128KSORGELIEG_ES.md) | [Info_EN](https://github.com/neptuno-fpga/Binaries/blob/main/Computers/ZZ--Infocomputer/ZXSPECTRUM128KSORGELIEG_EN.md) | [Ficheros/Files](https://github.com/neptuno-fpga/Binaries/tree/main/Computers/ZX%20SPECTRUM%20128K%20SORGELIG)
-* ZX_NEXT [Info_ES]() | [Info_EN]() | [Ficheros/Files](https://github.com/neptuno-fpga/Binaries/tree/main/Computers/ZX_NEXT)
-* ZX_Spectrum128K [Info_ES]() | [Info_EN]() | [Ficheros/Files](https://github.com/neptuno-fpga/Binaries/tree/main/Computers/ZX_Spectrum128K)
+* ZX_NEXT [Info_ES](https://github.com/neptuno-fpga/Binaries/blob/main/Computers/ZZ--Infocomputer/ZX_NEXT_ES.md) | [Info_EN](https://github.com/neptuno-fpga/Binaries/blob/main/Computers/ZZ--Infocomputer/ZX_NEXT_EN.md) | [Ficheros/Files](https://github.com/neptuno-fpga/Binaries/tree/main/Computers/ZX_NEXT)
+* ZX_Spectrum128K [Info_ES](https://github.com/neptuno-fpga/Binaries/blob/main/Computers/ZZ--Infocomputer/ZX_Spectrum128K_ES.md) | [Info_EN](https://github.com/neptuno-fpga/Binaries/blob/main/Computers/ZZ--Infocomputer/ZX_Spectrum128K_EN.md) | [Ficheros/Files](https://github.com/neptuno-fpga/Binaries/tree/main/Computers/ZX_Spectrum128K)
 
 ----------------------------------
