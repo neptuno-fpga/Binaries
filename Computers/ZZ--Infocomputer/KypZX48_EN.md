@@ -2,7 +2,7 @@
 
 ### Ported by NeuroRulez to nept-UNO and Unamiga Reloaded
 
-! [logokyp2] (https://user-images.githubusercontent.com/31018768/103680737-e5876600-4f86-11eb-92b3-7b2963c24228.jpg)
+![logokyp2](https://user-images.githubusercontent.com/31018768/103680737-e5876600-4f86-11eb-92b3-7b2963c24228.jpg)
 
 Important: The esxDOS v0.8.8 files must be copied to the SD card, which you can download here:
 http://www.esxdos.org/index.html
