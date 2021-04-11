@@ -1,9 +1,8 @@
-
 # Videoconsolas | Consoles 
 
 ---------------------------------
-* Nintendo Entertaiment System(NES) [Info_ES]() | [Info_EN]() | [Ficheros/Files]()
-* Super Nintendo Entertaiment System (SNES) [Info_ES]() | [Info_EN]() | [Ficheros/Files]()
-* Sega Megadrive(Megadrive/Genesis) [Info_ES]() | [Info_EN]() | [Ficheros/Files]()
-* Sega Master System [Info_ES]() | [Info_EN]() | [Ficheros/Files]()
-* VideoPac-G7000 [Info_ES]() | [Info_EN]() | [Ficheros/Files]()
+* Nintendo Entertaiment System(NES) [Info_ES](https://github.com/neptuno-fpga/Binaries/blob/main/Consoles/ZZ--Infoconsolas/NES_ES.md) | [Info_EN](https://github.com/neptuno-fpga/Binaries/blob/main/Consoles/ZZ--Infoconsolas/NES_EN.md) | [Ficheros/Files](https://github.com/neptuno-fpga/Binaries/tree/main/Consoles/NES)
+* Super Nintendo Entertaiment System (SNES) [Info_ES](https://github.com/neptuno-fpga/Binaries/blob/main/Consoles/ZZ--Infoconsolas/SNES_ES.md) | [Info_EN](https://github.com/neptuno-fpga/Binaries/blob/main/Consoles/ZZ--Infoconsolas/SNES_EN.md) | [Ficheros/Files](https://github.com/neptuno-fpga/Binaries/tree/main/Consoles/SNES)
+* Sega Megadrive(Megadrive/Genesis) [Info_ES](https://github.com/neptuno-fpga/Binaries/blob/main/Consoles/ZZ--Infoconsolas/MD_ES.md) | [Info_EN](https://github.com/neptuno-fpga/Binaries/blob/main/Consoles/ZZ--Infoconsolas/MD_EN.md) | [Ficheros/Files](https://github.com/neptuno-fpga/Binaries/tree/main/Consoles/Sega%20Megadrive)
+* Sega Master System [Info_ES](https://github.com/neptuno-fpga/Binaries/blob/main/Consoles/ZZ--Infoconsolas/SMS_ES.md) | [Info_EN](https://github.com/neptuno-fpga/Binaries/blob/main/Consoles/ZZ--Infoconsolas/SMS_EN.md) | [Ficheros/Files](https://github.com/neptuno-fpga/Binaries/tree/main/Consoles/Sega_Master_System)
+* VideoPac-G7000 [Info_ES](https://github.com/neptuno-fpga/Binaries/blob/main/Consoles/ZZ--Infoconsolas/VIDEOPACG7000_ES.md) | [Info_EN](https://github.com/neptuno-fpga/Binaries/blob/main/Consoles/ZZ--Infoconsolas/VIDEOPACG7000_EN.md) | [Ficheros/Files](https://github.com/neptuno-fpga/Binaries/tree/main/Consoles/Videopac-G7000)
