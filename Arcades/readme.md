@@ -2,16 +2,16 @@
 
 Varios
 ----------------------------------
-* Gaplus [Info_ES](https://github.com/neptuno-fpga/Binaries/tree/main/Arcades/Z--Infojuegos/Gaplus.md) | [Info_EN](https://github.com/neptuno-fpga/Binaries/blob/main/Arcades/Z--Infojuegos/Gaplus_en.md) | [Ficheros](https://github.com/neptuno-fpga/Binaries/tree/main/Arcades/Varios/Gaplus)
+* Gaplus [Info_ES](https://github.com/neptuno-fpga/Binaries/tree/main/Arcades/Z--Infojuegos/Gaplus.md) | [Info_EN](https://github.com/neptuno-fpga/Binaries/blob/main/Arcades/Z--Infojuegos/Gaplus_en.md) | [Ficheros/Files](https://github.com/neptuno-fpga/Binaries/tree/main/Arcades/Varios/Gaplus)
 
 Atari Tetris
 ----------------------------------
-* Tetris [Info_ES](https://github.com/neptuno-fpga/Binaries/tree/main/Arcades/Z--Infojuegos/Tetris.md) | [Info_EN](https://github.com/neptuno-fpga/Binaries/blob/main/Arcades/Z--Infojuegos/Tetris_en.md) | [Ficheros](https://github.com/neptuno-fpga/Binaries/tree/main/Arcades/Atari%20Tetris)
+* Tetris [Info_ES](https://github.com/neptuno-fpga/Binaries/tree/main/Arcades/Z--Infojuegos/Tetris.md) | [Info_EN](https://github.com/neptuno-fpga/Binaries/blob/main/Arcades/Z--Infojuegos/Tetris_en.md) | [Ficheros/Files](https://github.com/neptuno-fpga/Binaries/tree/main/Arcades/Atari%20Tetris)
 
 Bubble Bobble hardware
 ----------------------------------
-* Bubble Bobble [Info_ES](https://github.com/neptuno-fpga/Binaries/blob/main/Arcades/Z--Infojuegos/Bubble%20Bobble.md) | [Info_EN](https://github.com/neptuno-fpga/Binaries/blob/main/Arcades/Z--Infojuegos/BubbleBobble_EN.md) | [Ficheros](https://github.com/neptuno-fpga/Binaries/tree/main/Arcades/Bubble%20Bobble%20Hardware)
-* Tokio [Info_ES](https://github.com/neptuno-fpga/Binaries/blob/main/Arcades/Z--Infojuegos/Tokio.md) | [Info_EN](https://github.com/neptuno-fpga/Binaries/blob/main/Arcades/Z--Infojuegos/Tokio_EN.md) | [Ficheros](https://github.com/neptuno-fpga/Binaries/tree/main/Arcades/Bubble%20Bobble%20Hardware)
+* Bubble Bobble [Info_ES](https://github.com/neptuno-fpga/Binaries/blob/main/Arcades/Z--Infojuegos/Bubble%20Bobble.md) | [Info_EN](https://github.com/neptuno-fpga/Binaries/blob/main/Arcades/Z--Infojuegos/BubbleBobble_EN.md) | [Ficheros/Files](https://github.com/neptuno-fpga/Binaries/tree/main/Arcades/Bubble%20Bobble%20Hardware)
+* Tokio [Info_ES](https://github.com/neptuno-fpga/Binaries/blob/main/Arcades/Z--Infojuegos/Tokio.md) | [Info_EN](https://github.com/neptuno-fpga/Binaries/blob/main/Arcades/Z--Infojuegos/Tokio_EN.md) | [Ficheros/Files](https://github.com/neptuno-fpga/Binaries/tree/main/Arcades/Bubble%20Bobble%20Hardware)
 
 Capcom CPS1 Hardware
 ----------------------------------
