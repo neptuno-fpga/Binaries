@@ -1,4 +1,4 @@
-# Cores de Ordenadores | Computers Cores
+# Ordenadores | Computers 
 
 ---------------------------------
 * Amiga AGA [Info_ES](https://github.com/neptuno-fpga/Binaries/blob/main/Computers/ZZ--Infocomputer/Minimig_ES.md) | [Info_EN](https://github.com/neptuno-fpga/Binaries/blob/main/Computers/ZZ--Infocomputer/Minimig_EN.md) | [Ficheros/Files](https://github.com/neptuno-fpga/Binaries/tree/main/Computers/Amiga_Aga)
