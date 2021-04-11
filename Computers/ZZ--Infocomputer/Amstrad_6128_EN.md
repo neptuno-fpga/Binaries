@@ -10,7 +10,7 @@
 ![Amstrad_CPC_6128](https://user-images.githubusercontent.com/31018768/103159550-27681d80-47cb-11eb-9a3a-0930b18d2b1f.png)
 
 ### Requirements
-You need the roms amstrad.dat 
+You need the amstrad.dat  file in the same location where the core is located
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 License
