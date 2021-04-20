@@ -1,5 +1,5 @@
 # Vectrex
-### Puerto NeptUNO por Jose Manuel @delgrom
+### Port NeptUNO por Jose Manuel @delgrom
 Fuentes:
 
 Información del sistema original reimplementado en Fpga: https://es.wikipedia.org/wiki/Vectrex
