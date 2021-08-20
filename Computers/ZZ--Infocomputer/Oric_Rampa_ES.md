@@ -43,7 +43,7 @@ En realidad, Oric 1, Oric Atmos y Microdisc son completamente funcionales.
    * F11 - Restablecer. Use F11 para reiniciar una vez que se selecciona un DSK en OSD
    * F12 - Menú principal OSD.
 
-   ! [atajos] (img / shorcuts.jpg? raw = true "Atajos de teclado")
+ ![shorcuts](https://user-images.githubusercontent.com/31018768/130295245-a2e85e36-e998-474b-b02e-4c78b972cc06.jpg)
 
    * Activar el controlador FDC en el MENÚ OSD
    * Seleccione una imagen del directorio / ORIC, salga del OSD y presione F11. El sistema se iniciará inmediatamente
