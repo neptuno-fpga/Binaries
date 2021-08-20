@@ -1,4 +1,4 @@
-# Oric 48K in MiST and SiDi FPGA
+# Oric 48K in MiST SiDi and neptUNO FPGA
 
 Oric-1 and Oric Atmos re-implementation on a modern FPGA.
 
