@@ -43,7 +43,7 @@ Actually Oric 1, Oric Atmos and Microdisc are fully functional.
    * F11 - Reset. Use F11 to reboot once a DSK is selected at OSD
    * F12 - OSD Main Menu.
 
-   ![shortcuts](img/shorcuts.jpg?raw=true "Keyboard shortcuts")   
+   ![shorcuts](https://user-images.githubusercontent.com/31018768/130295245-a2e85e36-e998-474b-b02e-4c78b972cc06.jpg) 
 
    * Activate FDC controller at OSD MENU
    * Select an Image from /ORIC directory, exit OSD and press F11. System will boot inmeddiately
