@@ -1,4 +1,4 @@
-All credits and greetings to Multicore team
+All credits and greetings to the Multicore team
 https://gitlab.com/victor.trucco/Multicore/-/blob/master/System/STM32/docs/USAGE.md
 
 # How to use
@@ -50,7 +50,7 @@ Also, the launcher loads only binaries for the specified device:
 - `CRP` : Multicore 2 Plus
 - `CNU` : NeptUno
 - `CA2` : UNAMIGA 
-- `CA2` : UNAMIGA 2
+- `CA1` : UNAMIGA 2
 
 Inside the launcher, the options:
 
