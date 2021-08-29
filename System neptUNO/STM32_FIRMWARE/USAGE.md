@@ -1,3 +1,6 @@
+All credits and greetings to Multicore team
+https://gitlab.com/victor.trucco/Multicore/-/blob/master/System/STM32/docs/USAGE.md
+
 # How to use
 
 ## Preparing SD Card
