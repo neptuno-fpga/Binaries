@@ -1,5 +1,7 @@
 # Tandy Color Computer 2 (CoCo2) and Dragon32/64 en neptUNO FPGA por rampa
 
+Fuente : https://github.com/DECAfpga/CoCo2_Demistify
+
 ### Tandy Color Computer 2 (CoCo 2)
 ---------------------------------------------
 ![800px-TRS-80_Color_Computer_1_front_right](https://user-images.githubusercontent.com/31018768/132058799-37434e6a-7a5d-4e52-b752-b194adf2f93a.jpg)
