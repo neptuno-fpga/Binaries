@@ -102,5 +102,3 @@ Special thanks to the following people:
 * [@zigazou](https://twitter.com/zigazou) for his detailed [wiki article](https://github.com/Zigazou/amstrad-pcw-technical-info/tree/master/video-memory) on the PCW screen memory structure
 * [@asicguy](https://github.com/asicguy), [@alanswx](https://github.com/alanswx) and [@dshadoff](https://github.com/dshadoff) for the help, eoncouragment and support developing the core
 * [@sorgelig](https://github.com/sorgelig) for the fantastic MiSTer project and work
-
-
