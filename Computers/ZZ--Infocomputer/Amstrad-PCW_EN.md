@@ -1,4 +1,4 @@
-Amstrad PCW MiSTer Core by rampa
+Amstrad PCW demistify Core by rampa
 
 Source : https://github.com/rampa069/Amstrad-PCW_MiSTer/tree/demistify
 
