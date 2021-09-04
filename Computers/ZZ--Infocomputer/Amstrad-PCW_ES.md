@@ -1,8 +1,8 @@
-Amstrad PCW  Core por rampaAmstrad PCW MiSTer Core por rampa
+Amstrad demistify Core por rampa
 
 Fuente: https://github.com/rampa069/Amstrad-PCW_MiSTer/tree/demistify
 
-! [gnomo] (https://user-images.githubusercontent.com/31018768/132091373-d1695c1c-e9f4-430f-b65f-8bcec1fb8758.jpg)
+![gnome](https://user-images.githubusercontent.com/31018768/132091373-d1695c1c-e9f4-430f-b65f-8bcec1fb8758.jpg)
 
 Gnome Ranger ejecutándose en el núcleo de Amstrad PCW por [steddyman] (https://twitter.com/steddyman)
 ## Visión general
@@ -41,7 +41,7 @@ El PCW tampoco tiene una ROM de ARRANQUE, sino que transmite una pequeña rutina
 
 Los juegos generalmente se suministran en dos discos, normalmente el primer disco es un disco de arranque CP / M. Inserte este disco de arranque en la unidad A: usando el Menú, luego seleccione ** RESTABLECER ** en el menú OSD para cargar el disco. Una vez que el disco de arranque haya terminado de arrancar, el PCW le pedirá que cambie el disco al segundo disco y presione Intro.
 
-! [change_disk] (https://user-images.githubusercontent.com/31018768/132091383-a1f2a011-4e53-4938-8266-2e05c6521891.jpg)
+![change_disk](https://user-images.githubusercontent.com/31018768/132091383-a1f2a011-4e53-4938-8266-2e05c6521891.jpg)
 
 El principal sistema operativo que utilizó PCW se llamó CP / M, que fue desarrollado por Digital Research y fue uno de los primeros sistemas operativos multiplataforma del mundo. Más información sobre CP / M y algunos comandos comunes disponibles están documentados en [The CP / M Wiki article] (https://en.wikipedia.org/wiki/CP/M)
 
@@ -57,7 +57,7 @@ Estos dos modelos diferentes de PCW requieren diferentes discos de arranque. Est
 
 Al igual que los emuladores CP / M Box y Joyce y un par de placas complementarias, este núcleo ahora admite modos de color. A diferencia de esos emuladores, no es necesario que abarque toda la pantalla y se puede configurar desde el software en caso de que los autores de nuevos juegos deseen utilizarlo.
 
-! [gusano] (https://user-images.githubusercontent.com/31018768/132091395-3ccd3455-f367-4f31-bc56-b381b7386bc1.jpg)
+![worm](https://user-images.githubusercontent.com/31018768/132091395-3ccd3455-f367-4f31-bc56-b381b7386bc1.jpg)
 
 
 Muchos juegos de aventuras de PCW contienen gráficos en la parte superior, con una interfaz de texto antes. Una vez que el modo de color falso está habilitado, puede usar las siguientes teclas para controlarlo:
