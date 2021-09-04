@@ -1,4 +1,4 @@
-Amstrad demistify Core por rampa
+# Amstrad demistify Core por rampa
 
 Fuente: https://github.com/rampa069/Amstrad-PCW_MiSTer/tree/demistify
 
