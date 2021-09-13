@@ -1,1 +1,1 @@
-https://github.com/neptuno-fpga/Binaries/edit/main/Computers/readme.md
+https://github.com/neptuno-fpga/Binaries/blob/main/Computers/readme.md
