@@ -21,7 +21,4 @@
 * ZX_NEXT [Info_ES](https://github.com/neptuno-fpga/Binaries/blob/main/Computers/ZZ--Infocomputer/ZX_NEXT_ES.md) | [Info_EN](https://github.com/neptuno-fpga/Binaries/blob/main/Computers/ZZ--Infocomputer/ZX_NEXT_EN.md) | [Ficheros/Files](https://github.com/neptuno-fpga/Binaries/tree/main/Computers/ZX_NEXT)
 * ZX_Spectrum128K [Info_ES](https://github.com/neptuno-fpga/Binaries/blob/main/Computers/ZZ--Infocomputer/ZX_Spectrum128K_ES.md) | [Info_EN](https://github.com/neptuno-fpga/Binaries/blob/main/Computers/ZZ--Infocomputer/ZX_Spectrum128K_EN.md) | [Ficheros/Files](https://github.com/neptuno-fpga/Binaries/tree/main/Computers/ZX_Spectrum128K)
 * ZX_Spectrum128K [Info_ES](https://github.com/neptuno-fpga/Binaries/blob/main/Computers/ZZ--Infocomputer/ZX_Spectrum-128K_Cyclone_Desmistify_ES.md) | [Info_EN](https://github.com/neptuno-fpga/Binaries/blob/main/Computers/ZZ--Infocomputer/ZX_Spectrum-128K_Cyclone_Desmistify_EN.md) | [Ficheros/Files](https://github.com/neptuno-fpga/Binaries/tree/main/Computers/ZX_Spectrum-128K_Cyclone_Demistify_neuro)
-
-
-ZX_Spectrum-128K_Cyclone Desmistify by @Neurorulez
 ----------------------------------
