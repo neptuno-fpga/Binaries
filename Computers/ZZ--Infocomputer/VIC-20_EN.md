@@ -1,8 +1,8 @@
-# VIC-20(*)
+# VIC-20
 --------------------------------------------------
 ### Core ported by @Neurorulez
 
-####Source: https://github.com/neurorulez/VIC20_MiST/tree/updated
+#### Source: https://github.com/neurorulez/VIC20_MiST/tree/updated
 
 #### Features:
 ------------------------------------------------------
