@@ -2,7 +2,7 @@
 --------------------------------------------------
 ### Núcleo portado por @Neurorulez
 
-####Fuente: https://github.com/neurorulez/VIC20_MiST/tree/updated
+#### Fuente: https://github.com/neurorulez/VIC20_MiST/tree/updated
 
 #### Características:
 -------------------------------------------------- ----
