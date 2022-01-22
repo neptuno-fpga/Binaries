@@ -9,10 +9,6 @@
 
 #### Fuentes:
 
-#### Requisitos:
---------------------------------------------------
-Los archivos SD (https://www.specnext.com/latestdistro/)
-
 #### Mejoras:
 -------------------------------------------------- -
 Se han agregado los cambios de Spark
