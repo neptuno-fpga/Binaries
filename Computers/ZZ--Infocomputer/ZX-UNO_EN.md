@@ -8,10 +8,6 @@
 
 #### Sources: 
 
-#### Requirements:
--------------------------------------------------- 
-The SD files (https://www.specnext.com/latestdistro/)
-
 #### Improvements:
 ---------------------------------------------------
 Spark changes have been added
