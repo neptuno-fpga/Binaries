@@ -1,4 +1,4 @@
-#ZX-UNO(*)
+# ZX-UNO(*)
 --------------------------------------------------
 ### Núcleo portado por Fernando Mosquera @benitoss https://github.com/benitoss
 
