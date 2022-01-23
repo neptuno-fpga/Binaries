@@ -22,7 +22,7 @@ Spark changes have been added
 ### Instructions
 -------------------------------------------------- ------
 
-Copy the ZXUNO directories (which has the configurations and ROMS) and the BIN directory (with the ESXDOS089 part) in the root of the SD
+Copy the ZXUNO directories (which has the configurations and ROMS), BIN directory (with the ESXDOS089 part) and SYS directory in the root of the SD
 
 -------------------------------------------------- -
 ### License
