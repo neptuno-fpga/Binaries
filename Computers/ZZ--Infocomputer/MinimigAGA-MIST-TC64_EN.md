@@ -2,6 +2,8 @@
 
 ## Ported by rampa
 
+![a1200foto](https://user-images.githubusercontent.com/31018768/71215821-17188b00-22b9-11ea-8033-4ef7fa745241.jpg)
+
 For Turbo Chameleon TC64, MiST and other platforms. (This core should be easily portable to any FPGA board with VGA out, PS/2 in, SD-card, about 25,000 logic elements, and a 16-bit wide SDRAM supporting 13x9 layout for 32 megabytes of RAM.)
 
 Foreword
