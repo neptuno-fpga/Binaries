@@ -14,12 +14,17 @@ Amiga fue un increíble ordenador personal, anunciado alrededor de 1984, que -en
 Esta variante de minimig ha sido actualizada con capacidades de chipset AGA, lo que le permite emular los últimos modelos de Amiga (Amiga 1200, Amiga 4000 y (parcialmente) Amiga CD32). Por supuesto, también es compatible con los anteriores Amigas OCS/ECS como Amiga 500, Amiga 600, etc.
 
 Características principales soportadas
-variantes de chipset : OCS, ECS, AGA
-chipRAM : 0.5MB - 2.0MB
-slowRAM : 0.0MB - 1.5MB
-fastRAM : 0,0MB - 24MB
+
+*variantes de chipset : OCS, ECS, AGA
+
+- chipRAM : 0.5MB - 2.0MB
+- slowRAM : 0.0MB - 1.5MB
+- fastRAM : 0,0MB - 24MB
+
 Núcleo de la CPU : 68000, 68010, 68020
+
 kickstart : 1.2 - 3.2 (actualmente se admiten ROMs kickstart de 256kB, 512kB y 1MB)
+
 HRTmon con espejo de registros personalizado
 disquetes : 1-4 disquetes (soporta el formato de imagen de disquete ADF), con velocidades normales y turbo
 discos duros : 1-2 imágenes de disco duro (soporta imágenes de disco entero, imágenes de partición, usando la tarjeta SD entera y usando la partición de la tarjeta SD)
