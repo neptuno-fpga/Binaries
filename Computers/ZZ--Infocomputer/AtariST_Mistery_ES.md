@@ -2,7 +2,7 @@
 
 ## Portado por Rampa
 
-Información del sistema original reimplementado en la Fpga: hhttps://es.wikipedia.org/wiki/Atari_ST
+Información del sistema original reimplementado en la Fpga: https://es.wikipedia.org/wiki/Atari_ST
 
 ![Atari](https://user-images.githubusercontent.com/31018768/162156419-0a1dc094-4499-4ea6-8c02-f3e92547cefb.jpg)
 
