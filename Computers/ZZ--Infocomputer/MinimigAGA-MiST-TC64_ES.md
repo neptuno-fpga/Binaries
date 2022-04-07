@@ -2,6 +2,8 @@
 ## Portado por rampa
 Fuente: https://github.com/rampa069/MinimigAGA-MiST-TC64#readme
 
+![a1200foto](https://user-images.githubusercontent.com/31018768/71215821-17188b00-22b9-11ea-8033-4ef7fa745241.jpg)
+
 Para Turbo Chameleon TC64, MiST y otras plataformas. (Este núcleo debería ser fácilmente transportable a cualquier placa FPGA con salida VGA, entrada PS/2, tarjeta SD, unos 25.000 elementos lógicos y una SDRAM de 16 bits de ancho que soporte una disposición 13x9 para 32 megabytes de RAM).
 
 Prólogo
