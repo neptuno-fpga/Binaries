@@ -31,8 +31,6 @@ Salida de vídeo escandinava/YPbPr opcional
 Uso:
 Poner el core.rbf y el TOS como tos.img en la tarjeta SD. Las imágenes de TOS/disco duro/floppy se pueden seleccionar en el OSD (F12). Con F11, puedes alternar entre los puertos de joystick normal y STe
 
-Traducción realizada con la versión gratuita del traductor www.DeepL.com/Translator
-
 
 ### License
 
