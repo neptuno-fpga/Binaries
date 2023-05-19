@@ -2,7 +2,7 @@ Acorn Archimedes
 
 Readme source https://github.com/MiSTer-devel/Archie_MiSTer#readme
 Installation
-Copy the *.rbf into a root folder of the SD card. Copy a version of a RiscOS ROM into the "Archie" folder, renaming it to riscos.rom.
+Copy the *.np1 into a root folder of the SD card. Copy a version of a RiscOS ROM into the "Archie" folder, renaming it to riscos.rom.
 
 Reset
 warm reset: short press ctrl-alt-alt or USER button.
